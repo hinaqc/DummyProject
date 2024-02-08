@@ -1,0 +1,3 @@
+and i open browser
+and i enter user name
+and i enter password
